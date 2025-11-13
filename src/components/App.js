@@ -16,11 +16,10 @@ function Home() {
   );
 }
 
-{/* write an <About> component here */ }
 function About() {
   return (
     <div id="about">
-      <h1>About</h1>
+      <h2>About</h2>
     </div>
   );
 }
